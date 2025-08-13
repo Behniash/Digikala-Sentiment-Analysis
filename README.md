@@ -14,7 +14,6 @@ The original dataset is **not included** in this repository due to its large siz
 You can download it from Kaggle:  
 [Digikala Comments and Products Dataset](https://www.kaggle.com/datasets/radeai/digikala-comments-and-products/suggestions)
 
-After downloading, place the CSV file in the `data/` folder with the name `digikala-comments.csv`.
 
 ## Requirements
 
